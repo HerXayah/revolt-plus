@@ -1,0 +1,136 @@
+:root {
+    --primary-header: background-color: rgba(54, 54, 54, 0.6);
+    --hover: background-color: rgba(54, 54, 54, 0.6);
+    --rvpp-radius: 2em;
+    --sidebar-active: background-color: rgba(54, 54, 54, 0.6);
+}
+
+._11Ivv {
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 96% !important;
+}
+
+#app {
+    background-image: url(https://i.imgur.com/FfBRPYe.jpg);
+}
+
+._3LgFW {
+    margin-left: 10px;
+    border-radius: var(--rvpp-radius);
+}
+
+.fCZYAb {
+    border-radius: 1em;
+    background-color: transparent;
+}
+
+/* Top Bar */
+.fMsvUe {
+    margin: 10px;
+    border-radius: var(--rvpp-radius);
+    background-color: rgba(27, 27, 27, 0.6);
+}
+
+._item_12e90_1:hover {
+    background-color: var(--hover);
+    color: white;
+}
+
+.gkZrLl {
+
+    margin: 10px 10px 0px 10px;
+    border-radius: 2em;
+    background-color: rgba(27, 27, 27, 0.6);
+
+}
+
+.gSMWE {
+
+    background-color: transparent;
+    border-radius: 0.5em;
+    padding: 5px;
+
+}
+
+.dxJENu,
+.dbiFXv {
+
+    background-color: transparent;
+
+}
+
+.gkZrLl {
+
+    margin: 10px 10px 0px 10px;
+    border-radius: 2em;
+    background-color: rgba(27, 27, 27, 0.6);
+
+}
+
+.datwPM,
+.jDFLJu {
+    background-color: transparent;
+}
+
+.iwKGHa {
+    background-color: rgba(27, 27, 27, 0.6);
+    border-radius: var(--rvpp-radius);
+    padding: 5px;
+}
+
+.dxqdXL {
+    background-color: rgba(27, 27, 27, 0.6);
+    border-radius: var(--rvpp-radius);
+    margin-right: 2px;
+}
+
+.ibEGIb summary,
+._friend_gx39s_34,
+.hBzgEd {
+    background-color: rgba(27, 27, 27, 0.6);
+    border-radius: var(--rvpp-radius);
+}
+
+.iJPhgZ {
+    border-top: none;
+}
+
+.iJPhgZ time {
+    background-color: rgba(27, 27, 27, 0.6);
+    color: white;
+}
+
+._embed_184l5_1._website_184l5_11 {
+    background-color: rgba(27, 27, 27, 0.6);
+}
+
+.hJBMpB {
+    margin-bottom: 5px;
+}
+
+.dajneY:hover,
+.bFCPmG:hover {
+    background-color: rgba(27, 27, 27, 0.6);
+}
+
+.fEDoVN {
+    filter: brightness(85%);
+    border-radius: var(--rvpp-radius);
+    color: white;
+}
+
+.bDRlFN {
+    border-radius: var(--rvpp-radius);
+    background-color: rgba(27, 27, 27, 0.6);
+}
+
+.dajneY,
+.bFCPmG {
+    margin-top: 2.5px;
+    margin-bottom: 2.5px;
+    background-color: rgba(27, 27, 27, 0.6);
+    padding: 5px;
+    border-radius: var(--rvpp-radius);
+    transition: background-color 0.2s ease-in-out;
+}
