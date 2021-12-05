@@ -6,4 +6,6 @@ Discord Plus but for revolt
 ## How to use?
 
 Just add this in Custom CSS.\
-`https://rawcdn.githack.com/PrincessAkira/revolt-plus/a7fa06b4d790f9ee808ac959eebe7ca935f423fa/code.css`
+``
+/* Revolt-Plus Theme */
+@import url(https://rawcdn.githack.com/PrincessAkira/revolt-plus/a7fa06b4d790f9ee808ac959eebe7ca935f423fa/code.css);``
