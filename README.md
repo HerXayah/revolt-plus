@@ -3,6 +3,8 @@ Discord Plus but for revolt
 
 ## Images
 
+[!meow](https://i.imgur.com/CZVm9E3.png)
+
 ## How to use?
 
 Just add this in Custom CSS.\
