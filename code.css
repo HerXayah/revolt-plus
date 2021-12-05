@@ -135,6 +135,6 @@
     transition: background-color 0.2s ease-in-out;
 }
 
-.gkZrLl .actions div {
+.gkZrLl, .actions div {
     border-radius: var(--rvpp-radius);
 }
