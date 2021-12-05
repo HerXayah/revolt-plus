@@ -1,5 +1,5 @@
 # revolt-plus
-Discord Plus but for revolt
+Discord Plus but for the [Chat App Revolt](https://revolt.chat/)
 
 ## Images
 
