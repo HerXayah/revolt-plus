@@ -4,8 +4,7 @@ Discord Plus but for revolt
 ## Images
 
 ![meow](https://i.imgur.com/CZVm9E3.png)\
-![meow](https://i.imgur.com/HWcq5xB.png)\
-![meow](https://i.imgur.com/CZVm9E3.png)
+![meow](https://i.imgur.com/HWcq5xB.png)
 
 ## How to use?
 
